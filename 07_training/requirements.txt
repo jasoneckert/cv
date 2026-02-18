@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tensorflow==2.9
+tensorflow_datasets==4.9
+protobuf==3.20
+pillow
+numpy==1.26
+python-multipart
